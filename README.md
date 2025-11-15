@@ -8,3 +8,15 @@ This implementation can handle prior probabilities, and any sized probability tr
 Choose any one of the function names in the example_sets class file and use it like so in the __main__:
 
 example_sets.function_name()
+
+## Open in Google Colab
+
+| Lab | Description | Open in Google Colab |
+|-----|-------------|----------------------|
+| `Coding_linear_regression.ipynb` | Code a Hidden Markov Model from scratch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luisguiserrano/hmm/blob/master/Simple_HMM.ipynb) |
+
+> ✅ *Tip:* Click any “Open in Colab” button to launch the lab in Google Colab. From there, you can run the notebook in the cloud, make edits, and save your changes back to your own Drive.
+
+## Acknowledgement
+
+Thanks so much to [Daniel Hernandez](https://github.com/dhern023) for all his help!
